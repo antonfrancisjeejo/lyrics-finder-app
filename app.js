@@ -18,7 +18,6 @@ app.get("/",(req,res)=>{
 app.post("/", function(req, res) {
   const artist = req.body.artist;
   const song = req.body.song;
-  console.log(artist,song);
   const url = "https://api.lyrics.ovh/v1/"+artist+"/"+song;
 
   https.get(url, function(response) {
