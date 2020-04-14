@@ -1,0 +1,14 @@
+.custom-style{
+  text-align: center;
+}
+.heading{
+  margin-bottom: 5px;
+}
+.description{
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  color: #fff;
+}
+.custom-form{
+  padding-left: 20px;
+}
