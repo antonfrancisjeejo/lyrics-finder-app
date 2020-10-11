@@ -15,7 +15,7 @@ $ npm install or npm i
 
 ## Hosted site
 
-https://desolate-fjord-13650.herokuapp.com/
+https://lyrics-finders.herokuapp.com/
 
 
 ## Screenshots
